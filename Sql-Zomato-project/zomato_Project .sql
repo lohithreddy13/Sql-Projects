@@ -172,8 +172,7 @@ GROUP BY a.userid;
 
 
 -- 9.If buying each product generates points for eg 5rs-2 zomato point and each product has different purchasing points 
--- for eg for p1 5rs 1 zomato point, for pa 1ers szomato point and p3 5rs-1 zomato point I
-
+-- for eg for p1 5rs 1 zomato point, for p2 1rs 5 zomato point and p3 5rs-1 zomato point I
 -- calculate how many points collected by each customer and for which product most points have been given till now 
 
 
